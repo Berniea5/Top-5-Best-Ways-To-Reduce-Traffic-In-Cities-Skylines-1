@@ -9,7 +9,7 @@ It's really important to think how you are gonna construct your city, you can al
 This is the most obvious option and the best way to reduce traffic or completely erradicate it. From personal experience, making it so your citizens have to use their cars over very long distance and then deliberately using, for example: Underground Metro Station, Trams, etc. makes them take the public transport options a lot more often.
 ![example of a decent trasport idea](Cities-skylines-transport1.png)
 ## 3: Lane Mathematics
-By far the best option of fixing traffic pile-up. Think about it like this, you have a 3 lane highway that has a 1 way exit to the right. if you pay attention, the right lane has an option to still go straight and right, what you need to employ is to upgrade the road in front of the right exit and then the vehicles on the right lane are forced to take a right exit. basically 3 minus 1 so it equals to 2.
+By far the best option of fixing traffic pile-up. Think about it like this, you have a 3 lane highway that has a 1 way exit to the right. if you pay attention, the right lane has an option to still go straight and right, what you need to employ is to upgrade the road in front of the right to a 2 lane and then the vehicles on the right lane are forced to take a right exit. basically 3 minus 1 so it equals to 2.
 
 ## 4: Walking paths
 
