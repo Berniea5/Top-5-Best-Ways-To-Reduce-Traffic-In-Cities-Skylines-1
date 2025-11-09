@@ -1,5 +1,11 @@
 # Top 5 Best Ways To Reduce Traffic In Cities: Skylines 1
 Are You Tired Of Traffic In your Big City In Cities: Skylines 1? We Have Gathered The 5 Best Ways To Reduce Traffic Without Mods And Without Much Effort!
+Table of Content:
+* 1: Think About How You Are Gonna Build Your City
+* 2: Use Public Transport
+* 3: Lane Mathematics
+* 4: Walking paths
+* 5: Building multiple cities
 
 ![Example of a good constructed city](cities-skylines-city-example1.png)
 ## 1: Think About How You Are Gonna Build Your City
