@@ -25,5 +25,5 @@ Walking paths are extremely versatile when used correctly. Your citizens love wa
 By far the least done option, It is good to build smaller cities, But over time, you will run out of space to build (around 100k - 150k) and it will facilitate traffic off your main city.
 ![Example of a good constructed city](cities-skylines-city-example1.png)
 
-* Sources: [Cities: Skylines 1 Wikipedia](https://skylines.paradoxwikis.com/Cities:_Skylines_Wiki)
+* Cities: Skylines 1 Wikipedia: [Cities: Skylines 1 Wikipedia](https://skylines.paradoxwikis.com/Cities:_Skylines_Wiki)
 * Youtube: [Youtube, Biffa](https://www.youtube.com/watch?v=pGCoLh3NL7g)
