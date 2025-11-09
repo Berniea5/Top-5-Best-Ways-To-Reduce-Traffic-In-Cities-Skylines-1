@@ -9,7 +9,7 @@ Table of Content:
 
 ![Example of a good constructed city](cities-skylines-city-example1.png)
 ## 1: Think About How You Are Gonna Build Your City
-You can always go for the blocky-style residentials which is good in the early game where you are trying to unlock everything and get money, but further down the line it will cause you massive headaches to 'improve' that area. and if you are going to do that make sure its easy to remove or enhance later on.
+You can always go for the blocky-style residentials which is good in the early game where you are trying to unlock everything and get money, But i would advise you to build more expensive and more beautiful roads and think how you are gonna build your city before actually building it
 
 ![City example](cromulent-city-showcase.png)
 ## 2: Use Public Transport 
