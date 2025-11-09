@@ -10,7 +10,7 @@ Are You Tired Of Traffic In your Big City In Cities: Skylines 1? We Have Gathere
 You can go for the blocky-style residentials - its good in the early game where you are trying to unlock everything and get money, But try to build differently later on. example below:
 ![City example](cromulent-city-showcase.png)
 ## 2: Use Public Transport 
-the best way to reduce traffic or completely erradicate it in the game - its extremely good to build multiple transport options instead of one, why? because multiple options stops citizens from using their car or walking. for example an underground metro station next to a tram or bus stop.
+the best way to reduce traffic in the game. its extremely good to build multiple transport options instead of one, why? because multiple options stops citizens from using their car or walking. for example an underground metro station next to a tram or bus stop.
 
 ![showcase of a decent trasport idea](Cities-skylines-transport1.png)
 ## 3: Lane Mathematics
@@ -24,3 +24,6 @@ Walking paths are extremely versatile when used correctly. Your citizens love wa
 ## 5: Building multiple cities
 By far the least done option, It is good to build smaller cities, But over time, you will run out of space to build (around 100k - 150k) and it will facilitate traffic off your main city.
 ![Example of a good constructed city](cities-skylines-city-example1.png)
+
+* Sources: [Cities: Skylines 1 Wikipedia](https://skylines.paradoxwikis.com/Cities:_Skylines_Wiki)
+* Youtube: [Youtube, Biffa](https://www.youtube.com/watch?v=pGCoLh3NL7g)
