@@ -17,6 +17,6 @@ By far the best option of fixing traffic pile-up. if you look closely you can se
 ## 4: Walking paths
 Walking paths are extremely versatile when used correctly. Your citizens love walking, And by using pathways it will reduce the traffic in your city greatly. Here is a demonstration of how i have done it.
 
-[Walkways](cities-skylines-walkways-guide.png)
+[Walkways And Its use](cities-skylines-walkways-guide.png)
 ## 5: Building multiple cities
 By far the least done option, It is good to build smaller cities, But over time, you will run out of space to build (around 100k - 150k) and it will facilitate traffic off your main city.
