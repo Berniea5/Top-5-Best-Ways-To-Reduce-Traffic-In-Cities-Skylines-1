@@ -7,7 +7,7 @@ Are You Tired Of Traffic In your Big City In Cities: Skylines 1? We Have Gathere
 * 5: Multiple Cities
 
 ## 1: Think About How You Are Gonna Build Your City
-You can always go for the blocky-style residentials which is good in the early game where you are trying to unlock everything and get money, But try to build differently later on.
+You can go for the blocky-style residentials - its good in the early game where you are trying to unlock everything and get money, But try to build differently later on. example below:
 ![City example](cromulent-city-showcase.png)
 ## 2: Use Public Transport 
 the best way to reduce traffic or completely erradicate it in the game - its extremely good to build multiple transport options instead of one, why? because multiple options stops citizens from using their car or walking. for example an underground metro station next to a tram or bus stop.
