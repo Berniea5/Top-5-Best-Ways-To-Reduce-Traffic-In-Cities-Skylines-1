@@ -13,7 +13,7 @@ You can always go for the blocky-style residentials which is good in the early g
 
 ![City example](cromulent-city-showcase.png)
 ## 2: Use Public Transport 
-This is the most obvious option and the best way to reduce traffic or completely erradicate it in the game. From personal experience, making it so your citizens have to use their cars over very long distance and then deliberately using, for example: Underground Metro Station, Trams, etc, makes them take the public transport options a lot more often.
+the best way to reduce traffic or completely erradicate it in the game - its extremely good to build multiple transport options instead of one, why? because multiple options stops citizens from using their car or walking. for example an underground tram station next to a tram or bus stop.
 
 ![showcase of a decent trasport idea](Cities-skylines-transport1.png)
 ## 3: Lane Mathematics
