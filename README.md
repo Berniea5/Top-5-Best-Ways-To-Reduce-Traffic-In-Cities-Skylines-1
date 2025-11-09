@@ -16,7 +16,7 @@ the best way to reduce traffic or completely erradicate it in the game - its ext
 
 ![showcase of a decent trasport idea](Cities-skylines-transport1.png)
 ## 3: Lane Mathematics
-By far the best option of fixing traffic pile-up. if you look closely you can see that the road to the right has one way straight into the highway whilst the other lanes on the road before it have their own lane. what you need to do is to make the road behind / in front the entrance of a 1 way road a two way (depending on the size of your road, Look at the left top side of the screenshot) so they are assigned their own dedicated lane instead of heading straight on the lane that is coming through
+By far the best option of fixing traffic pile-up. if you look closely you can see that the road to the right has one way straight into the highway whilst the other lanes on the road before it have their own lane. what you need to do is to make the road behind / in front the entrance of a 1 way road or a two way (depending on the size of your road, Look at the left top side of the screenshot) so they are assigned their own dedicated lane instead of heading straight on the lane that is coming through
 
 ![Lane math](cities-skylines-laneMathematics.png)
 ## 4: Walking paths
