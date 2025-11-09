@@ -22,7 +22,7 @@ Walking paths are extremely versatile when used correctly. Your citizens love wa
 
 ![Walkways And Its use](Cities-skylines-1-Walkways.png)
 ## 5: Building multiple cities
-By far the least done option, It is good to build smaller cities, But over time, you will run out of space to build (around 100k - 150k) and it will facilitate traffic off your main city.
+By far the least done option, It is good to build smaller cities, But over time, you will run out of space to build. But its a decent options.
 ![Example of a good constructed city](cities-skylines-city-example1.png)
 
 * Cities: Skylines 1 Wikipedia: [Cities: Skylines 1 Wikipedia](https://skylines.paradoxwikis.com/Cities:_Skylines_Wiki)
