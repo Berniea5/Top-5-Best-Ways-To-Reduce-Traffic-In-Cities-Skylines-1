@@ -3,7 +3,7 @@ Are You Tired Of Traffic In your Big City In Cities: Skylines 1?  Well We Have G
 
 ToC
 '''
-[github.com/Berniea5/Top-5-Best-Ways-To-Reduce-Traffic-In-Cities-Skylines-1](How-To-Build-Efficent-Cities)
+[github.com/Berniea5/Top-5-Best-Ways-To-Reduce-Traffic-In-Cities-Skylines-1?tab=readme-ov-file#1-think-about-how-you-are-gonna-build-your-city](How-To-Build-Efficent-Cities)
 '''
 
 ## 1: Think About How You Are Gonna Build Your City
