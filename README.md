@@ -26,4 +26,3 @@ By far the least done option, It is good to build smaller cities, But over time,
 ![Example of a good constructed city](cities-skylines-city-example1.png)
 
 * Cities: Skylines 1 Wikipedia: [Cities: Skylines 1 Wikipedia](https://skylines.paradoxwikis.com/Cities:_Skylines_Wiki)
-* Youtube: [Youtube, Biffa](https://www.youtube.com/watch?v=pGCoLh3NL7g)
