@@ -3,7 +3,7 @@ Are You Tired Of Traffic In your Big City In Cities: Skylines 1? We Have Gathere
 * 1: How To Build Cities Properly
 * 2: How To Use Public Transports Effectively
 * 3: Correct Use of Lane Mathematics
-* 4: Efficent Walking paths
+* 4: Efficient Walking paths
 * 5: Multiple Cities
 
 ## 1: Think About How You Are Gonna Build Your City
